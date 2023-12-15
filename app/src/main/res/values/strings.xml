@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Your Journey</string>
+    <string name="Logo_Aplikasi">Logo App</string>
+    <string name="empty_name">Please insert your name</string>
+    <string name="empty_email">Please insert your email</string>
+    <string name="email_invalid">Email address is invalid</string>
+    <string name="password_invalid">Password is invalid</string>
+    <string name="empty_password">Please insert your password</string>
+    <string name="less_than_8_character">The password must be at least 8 characters</string>
+    <string name="register_success">Register Success</string>
+    <string name="error">Sorry, something wrong</string>
+    <string name="unknown_condition">Unknown Condition</string>
+    <string name="login_failed">Email or password incorrect</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+
+</resources>
